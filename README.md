@@ -7,7 +7,7 @@
 
 1️⃣ - Exemplo prático que apresenta a mensagem: "Hello World!".
 
-2️⃣ - Exemplo prático que apresenta a mensagens das classes animais de um zoológico.
+2️⃣ - Exemplo prático que apresenta mensagens das classes de animais de um zoológico.
 
 ----------------------------------------------------------------------------
 
